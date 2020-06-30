@@ -1,0 +1,59 @@
+
+    .container{
+        text-align:center;
+        width:500px;
+    }
+    body { 
+       
+    background: url("../img/background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.lgout{
+    margin:10px;
+    float: right;
+}
+#welcome-text{
+    font-size:200%;
+    font-weight:bolder;
+    color:black;
+    text-align:center;
+}
+#homepage{
+    margin-top:110px;
+}
+h1{
+    margin:40px;
+    font-family: 'Merienda', cursive;
+    font-size:48px;
+    -webkit-text-stroke:2px black;
+}
+p{
+    font-family: 'Handlee', cursive;
+}
+ a:any-link{
+    color : white;
+}
+#reg-form{
+    display:none;
+}
+@media only screen and (max-width: 500px) {
+    .container{
+        width:auto !important;
+    }
+}
+#diary{
+    margin-top:0px !important;
+    width:100% !important;
+    text-align:center;
+    height:85%;
+    opacity:0.7;
+    background-color:black;
+    color:white;
+    font-family: 'Handlee', cursive;
+    font-size:110%;
+
+}
+
