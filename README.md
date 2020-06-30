@@ -19,4 +19,4 @@ The table format for mysql database can be found inside database folder in user.
 
 This project let you store your thoughts and secrets securely and permanently and can access anywhere on any device. So basically , this can work as your personal secret diary.
 The auto save function of the secret diary automatically saves all your data by itself so you don't have to worry for saving the data.
-For security purpose your passwords are stored using md5 encryption technique with some added salt which provide a bbetter security to your account.
+For security purpose your passwords are stored using md5 encryption technique with some added salt which provide a better security to your account.
